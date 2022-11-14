@@ -1,0 +1,70 @@
+#footer{
+    margin-top: 70px;
+}
+
+.footer-middle-area{
+    padding-top: 15px;
+}
+
+.bg-footer{
+    background-color: #494a48 !important;
+}
+
+#footer .container{
+    width: 970px;
+}
+
+#footer .contact{
+    margin-left: -30px;
+    display: inline-block;
+    width: 41.66666667%;
+}
+
+#footer .contact a,
+#footer .product a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.icon-footer{
+    color: #FFF;
+}
+
+.footer-about{
+    position: relative;
+    padding: 5px 0;
+    padding-left: 10px;
+}
+
+#footer .single-footer a{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+#footer .product{
+    float: right;
+    width: 25%;
+}
+
+#footer .fanpage{
+    float: right;
+    width: 33.33333333%;
+}
+
+.product .product-list li{
+    padding: 5px 0;
+}
+
+.fanpage .icon-footer{
+    font-size: 25px;
+}
+
+.fanpage a{
+        text-decoration: none;
+}
+
+.fanpage .fanpage-heading{
+    color: #FFF;
+}
