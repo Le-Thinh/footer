@@ -1,0 +1,70 @@
+<div id="footer">
+            <div class="footer-container">
+                <div class="footer-middle-area bg-footer">
+                    <div class="container">
+                        <div class="row">
+                            <div class="contact">
+                                <div class="footer-about mb-10 heading">
+                                    <h4><a href="">LIÊN HỆ</a></h4>
+                                </div>
+                                <div class="mb-10 single-footer">
+                                    <p class="footer-about"><i class="icon-footer ti-email"></i><a href=""> Email:
+                                            tramtabo@gmail.com</a></p>
+                                    <p class="footer-about"><i class="icon-footer ti-mobile"></i><a href=""> HOTLINE :
+                                            089 939 7788</a></p>
+                                </div>
+                                <div class="mb-10 single-footer">
+                                    <p class="footer-about"><i class="icon-footer ti-home"></i><a href="">
+                                            Chi nhánh 1: <br />250/4 Hai Bà Trưng, phường Tân Định, Quận 1, TP Hồ Chí
+                                            Minh</a>
+                                    </p>
+                                    <p class="footer-about"><i class="icon-footer ti-mobile"></i><a href=""> Điện thoại:
+                                            089 839 7788</a></p>
+                                </div>
+                                <div class="mb-10 single-footer">
+                                    <p class="footer-about"><i class="icon-footer ti-home"></i><a href="">
+                                            Chi nhánh 2: <br />387/12 CMT8, Phường 13, Quận 10, TP Hồ Chí Minh</a>
+                                    </p>
+                                    <p class="footer-about"><i class="icon-footer ti-mobile"></i><a href=""> Điện thoại:
+                                            078 688 7809</a></p>
+                                </div>
+                            </div>
+                            <div class="fanpage">
+                                <div class="fanpage-follow">
+                                    <h4 class="footer-about mb-10 fanpage-heading">FOLLOW US</h4>
+                                    <a class="footer-about" href="">
+                                        <i class="icon-footer ti-facebook"></i>
+                                    </a>
+                                    <a class="footer-about" href="">
+                                        <i class="icon-footer ti-instagram"></i>
+                                    </a>
+                                    <a class="footer-about" href="">
+                                        <i class="icon-footer ti-youtube"></i>
+                                    </a>
+                                    <a class="footer-about" href="">
+                                        <i class="icon-footer ti-twitter"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="product">
+                                <div class="footer-about mb-10">
+                                    <h4><a href="">PRODUCT</a></h4>
+                                </div>
+                                <ul class="product-list single-footer footer-about">
+                                    <li><a href="">Trang chủ</a></li>
+                                    <li><a href="">Giới thiệu</a></li>
+                                    <li><a href="">Sản phẩm</a></li>
+                                    <li><a href="">Liên hệ</a></li>
+                                    <li><a href="">Tin tức</a></li>
+                                    <li><a href="">TEREX</a></li>
+                                    <li><a href="">Tìm kiếm đơn hàng</a></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
